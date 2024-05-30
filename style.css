@@ -1,0 +1,31 @@
+header{
+    padding: 20vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.calltoaction{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 600;
+    border: none;
+    padding: 1vw;
+    width: 30vw;
+    border-radius: 60px;
+}
+
+.contactcard{
+    background: #ff0000;
+    border-radius: 25px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 25vh;
+    
+
+}
